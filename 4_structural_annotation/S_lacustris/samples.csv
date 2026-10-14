@@ -1,0 +1,2 @@
+sample_name,genome,genome_masked,protein_fasta,bam_files,fastq_r1,fastq_r2,sra_ids,varus_genus,varus_species,isoseq_bam,isoseq_fastq,busco_lineage,reference_gtf
+gzx,/work1/sponge/genome_annotation/gzx/gzx_shortids.fasta,/work1/sponge/genome_annotation/gzx/repeatmasker/gzx_shortids.fasta.masked,/work1/sponge/genome_annotation/protein_evidence/Porifera_2species.faa,,,,,,,,,metazoa_odb10,

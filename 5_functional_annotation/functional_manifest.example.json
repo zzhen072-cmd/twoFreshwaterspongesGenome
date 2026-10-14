@@ -1,0 +1,18 @@
+{
+  "species": {
+    "GZXS202303": {
+      "proteins": "inputs/GZXS202303.proteins.representative.faa",
+      "eggnog": "inputs/GZXS202303.longest.emapper.annotations",
+      "interpro": "inputs/GZXS202303.longest.interproscan.tsv",
+      "swissprot": "inputs/GZXS202303_vs_swissprot.best.tsv"
+    },
+    "NJ151201": {
+      "proteins": "inputs/NJ151201.proteins.representative.faa",
+      "eggnog": "inputs/NJ151201.longest.emapper.annotations",
+      "interpro": "inputs/NJ151201.longest.interproscan.tsv",
+      "swissprot": "inputs/NJ151201_vs_swissprot.best.tsv"
+    }
+  },
+  "go": "references/go-basic.obo",
+  "kegg": "references/ko00001.keg"
+}
